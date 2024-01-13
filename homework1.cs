@@ -1,4 +1,3 @@
-/* Online C# Compiler and Editor */
 using System.IO;
 using System;
 
